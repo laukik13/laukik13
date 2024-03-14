@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Laukik Palekar</h1>
 
-I'm [Your Name], a passionate MERN stack developer from [Your Location]. Welcome to my GitHub profile!
+Welcome to my GitHub repository! I'm Laukik Palekar, a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about creating scalable and efficient web applications. This repository serves as a showcase of my projects, skills, and contributions to the development community.
 
 ## About Me
 
-I love building web applications and crafting beautiful, intuitive user experiences. My journey into software development began [mention how you got into MERN stack development or any relevant background]. 
+I am a dedicated developer with one years of experience in web development. My expertise lies in building full-stack applications using the MERN stack, along with proficiency in various other technologies such as [mention any other relevant technologies or frameworks]. I am constantly learning and exploring new tools and technologies to enhance my skills and stay updated with industry trends. 
 
 ## Tech Stack
 
@@ -44,7 +44,8 @@ Here are some of the projects I've been working on lately:
 
 I'm always interested in connecting with fellow developers and discussing new ideas. You can reach out to me via:
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
+- - GitHub: [github.com/laukik13](https://github.com/laukik13) 📂
+- LinkedIn: [linkedin.com/in/laukik-palekar-474765255](https://www.linkedin.com/in/laukik-palekar-474765255) 🔗
+- Portfolio: [yourportfolio.com](https://www.yourportfolio.com) 🌐
 
 Feel free to explore my repositories and don't hesitate to open issues or pull requests if you have any suggestions or feedback. Thanks for stopping by!
