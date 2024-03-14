@@ -45,7 +45,7 @@ Here are some of the projects I've been working on lately:
 
 I'm always interested in connecting with fellow developers and discussing new ideas. You can reach out to me via:
 
-- - GitHub: [github.com/laukik13](https://github.com/laukik13) 📂
+- GitHub: [github.com/laukik13](https://github.com/laukik13) 📂
 - LinkedIn: [linkedin.com/in/laukik-palekar-474765255](https://www.linkedin.com/in/laukik-palekar-474765255) 🔗
 - Portfolio: [yourportfolio.com](https://www.yourportfolio.com) 🌐
 
