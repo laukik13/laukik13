@@ -45,11 +45,8 @@ Here are some of the projects I've been working on lately:
 
 I'm always interested in connecting with fellow developers and discussing new ideas. You can reach out to me via:
 
-- GitHub: [github.com/laukik13](https://github.com/laukik13) 📂
-- LinkedIn: [linkedin.com/in/laukik-palekar-474765255](https://www.linkedin.com/in/laukik-palekar-474765255) 🔗
-- Portfolio: [yourportfolio.com](https://www.yourportfolio.com) 🌐
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/laukik-palekar-474765255))
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([Your GitHub Profile Link](https://github.com/laukik13))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/laukik13)
+[![Personal Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.yourportfolio.com)
 
 Feel free to explore my repositories and don't hesitate to open issues or pull requests if you have any suggestions or feedback. Thanks for stopping by!
