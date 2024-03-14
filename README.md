@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laukik Palekar</h1>
 
-
 ## Introduction
 Welcome to my GitHub repository! I'm [Your Name], a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about creating scalable and efficient web applications. This repository serves as a showcase of my projects, skills, and contributions to the development community.
 
