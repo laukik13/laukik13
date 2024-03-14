@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I'm Laukik Palekar, a MERN (MongoDB, Express.js
 
 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a keen interest in building robust and scalable web applications.
 
-- 🚀 I’m currently working on Something Cool 😎
+- 🚀 I’m currently working on Something Cool
 - 🌱 Currently Learning New Technology 
 - 💬 Ask me about anything related to Javascript/(MERN)
 - 📫 How to reach me: https://www.linkedin.com/in/laukik-palekar-474765255
