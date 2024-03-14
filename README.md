@@ -23,8 +23,8 @@ Here are some technologies I frequently work with:
 ![Fastify.js](https://img.shields.io/badge/-Fastify.js-202020?logo=fastify&logoColor=white)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -32,8 +32,6 @@ Here are some technologies I frequently work with:
 
 ### Other Tools & Technologies
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
 
 ## Projects
 
