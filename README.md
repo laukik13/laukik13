@@ -1,4 +1,4 @@
-#                                                                    Hi 👋, I'm Laukik Palekar
+<h1 align="center">Hi 👋, I'm Laukik Palekar</h1>
 
 
 ## Introduction
