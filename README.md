@@ -38,15 +38,13 @@ Here are some technologies I frequently work with:
 Here are some of the projects I've been working on lately:
 
 - [Project 1 Name](Link)
-- [Project 2 Name](Link)
-- [Project 3 Name](Link)
 
 ## Get in Touch
 
 I'm always interested in connecting with fellow developers and discussing new ideas. You can reach out to me via:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/laukik-palekar-474765255))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laukik-palekar-474765255)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/laukik13)
-[![Personal Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.yourportfolio.com)
+[![Personal Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.laukikpalekar.in)
 
 Feel free to explore my repositories and don't hesitate to open issues or pull requests if you have any suggestions or feedback. Thanks for stopping by!
