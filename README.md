@@ -40,11 +40,6 @@ Here are some technologies I frequently work with:
 ### Other Tools & Technologies
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 
-## Projects
-
-Here are some of the projects I've been working on lately:
-
-- [Project 1 Name](Link)
 
 ## Get in Touch
 
