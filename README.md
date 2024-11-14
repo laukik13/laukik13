@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laukik Palekar</h1>
 
-Welcome to my GitHub repository! I'm Laukik Palekar, a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about creating scalable and efficient web applications. This repository serves as a showcase of my projects, skills, and contributions to the development community.
+Welcome to my GitHub repository! I'm Laukik Palekar, a Full Stack Developer passionate about creating scalable and efficient web applications. This repository serves as a showcase of my projects, skills, and contributions to the development community.
 
 ## About Me
 
