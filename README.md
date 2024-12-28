@@ -9,7 +9,7 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer w
 - 🚀 I’m currently working on Something Cool
 - 🌱 Currently Learning New Technology 
 - 💬 Ask me about anything related to Javascript/(MERN)
-- 📫 How to reach me: https://www.linkedin.com/in/laukik-palekar-474765255
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laukik-palekar-474765255)
 - ⚡ Fun Fact: I ❤️‍🏏 
 
   
