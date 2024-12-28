@@ -22,23 +22,23 @@ Here are some technologies I frequently work with:
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://www.css3.info/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-[![Tailwindcss]](https://tailwindcss.com/)
+[![Tailwindcss](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)]([https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black](https://react.dev/))
 
 ### Backend
-![Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-![Express.js](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+[![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 
 ### Database
-![SQL](https://dev.mysql.com/doc/)
-![MongoDB](https://www.mongodb.com/docs/manual/core/document/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)](https://dev.mysql.com/doc/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/manual/core/document/)
 
 ### Version Control
-![Git](https://git-scm.com/)
-![GitHub](https://github.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 
 ### Other Tools & Technologies
-![npm](https://www.npmjs.com/)
+[![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 
 ## Get in Touch
