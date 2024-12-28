@@ -18,27 +18,27 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer w
 Here are some technologies I frequently work with:
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![HTML5](https://html.com/html5/)
+![CSS3](https://www.css3.info/)
+![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+![Tailwindcss](https://tailwindcss.com/)
+![React]([https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black](https://react.dev/))
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Fastify.js](https://img.shields.io/badge/-Fastify.js-202020?logo=fastify&logoColor=white)
+![Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+![Express.js](https://expressjs.com/)
 
 ### Database
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://dev.mysql.com/doc/)
+![MongoDB](https://www.mongodb.com/docs/manual/core/document/)
 
 ### Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Git](https://git-scm.com/)
+![GitHub](https://github.com/)
 
 ### Other Tools & Technologies
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+![npm](https://www.npmjs.com/)
 
 
 ## Get in Touch
