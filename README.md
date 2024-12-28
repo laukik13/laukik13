@@ -18,12 +18,12 @@ I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer w
 Here are some technologies I frequently work with:
 
 ### Frontend
-![HTML5](https://html.com/html5/)
-![CSS3](https://www.css3.info/)
-![JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-![Tailwindcss](https://tailwindcss.com/)
-![React]([https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black](https://react.dev/))
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://html.com/html5/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://www.css3.info/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+[![Tailwindcss]](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)]([https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black](https://react.dev/))
 
 ### Backend
 ![Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
